@@ -23,6 +23,6 @@ Repository ini berisi kumpulan project PHP sederhana yang dapat digunakan sebaga
 2. Import database dari file SQL jika tersedia, atau buat database dan tabel sesuai dengan instruksi di setiap project.
 3. Jalankan server Apache di XAMPP atau WAMP.
 4. Akses project melalui browser dengan mengunjungi http://localhost/nama-folder.
-5. 
-###Project dalam Repository
+
+### Project dalam Repository
 1. CRUD Sederhana: Project ini menunjukkan bagaimana mengimplementasikan operasi CRUD menggunakan PHP dan MySQL.
