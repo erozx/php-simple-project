@@ -25,4 +25,4 @@ Repository ini berisi kumpulan project PHP sederhana yang dapat digunakan sebaga
 4. Akses project melalui browser dengan mengunjungi http://localhost/nama-folder.
 
 ### Project dalam Repository
-1. CRUD Sederhana: Project ini menunjukkan bagaimana mengimplementasikan operasi CRUD menggunakan PHP dan MySQL.
+1. **CRUD Sederhana**: Project ini menunjukkan bagaimana mengimplementasikan operasi CRUD menggunakan PHP dan MySQL.
